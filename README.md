@@ -150,9 +150,3 @@ Feel free to open issues or submit pull requests if you want to improve the app 
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 ```
-
-### **Notas**:
-- **Estructura del proyecto:** Explica cómo están organizados los archivos.
-- **Ejemplos de código:** Muestra partes clave del código, como el `CounterCubit` y la `CounterView`.
-- **Instrucciones para correr el proyecto:** Pasos básicos para clonar y ejecutar la aplicación.
-- **Capturas de pantalla:** Añade imágenes en la carpeta `docs/screenshots` para ilustrar el funcionamiento del contador.
